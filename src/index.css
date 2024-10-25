@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+}
+
+*{
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #161513;
+}
+
+.headingColor {
+  background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+
+
