@@ -9,21 +9,21 @@ function Footer() {
         <div className="flex flex-col items-center justify-center">
           <div className="flex space-x-4">
             <a
-              href="https://www.facebook.com/muzammil.sial.142"
+              href="https://www.facebook.com/profile.php?id=61566901600613&mibextid=ZbWKwL"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center  border-2 border-transparent hover:border-blue-500 p-2 rounded-full transition duration-300"
             >
               <FaFacebook size={24} className="text-white hover:text-blue-500" />
             </a>
-            <a
+            {/* <a
               href="https://www.youtube.com/@Code_Sir"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center border-2 border-transparent hover:border-red-600 p-2 rounded-full transition duration-300"
             >
               <IoLogoYoutube size={24} className="text-white hover:text-red-600" />
-            </a>
+            </a> */}
             <a
               href="https://www.instagram.com/muzammil.sial.142?igsh=YzljYTk1ODg3Zg=="
               target="_blank"

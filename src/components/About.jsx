@@ -61,7 +61,7 @@ const About = () => {
         {/* Right section with text */}
         <div className="md:w-2/3 text-center px-2 md:text-left">
           <p className="text-[16px]  mb-6 montserrat">
-            I'm Muzammil Hussain, a passionate Frontend Developer with over 4
+            I'm Mudassar Hussain, a passionate Frontend Developer with over 4
             years of experience. I’ve had the opportunity to work with leading
             organizations, where my expertise has helped shape innovative
             solutions and drive success

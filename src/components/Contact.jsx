@@ -73,16 +73,16 @@ const Contact = () => {
                 href="mailto:youremail@example.com"
                 className="hover:underline"
               >
-                muzammilhks1@gmail.com
+                mudassarhussain4047769@gmail.com
               </a>
             </div>
             <div className="mb-4">
               <FaPhone className="inline-block headingColor-400 mr-2" />
-              <span>+923328410705</span>
+              <span>+923454047769</span>
             </div>
             <div className="mb-4">
               <FaLocationDot className="inline-block headingColor-400 mr-2" />
-              <span>Faisal Market, Bhakkar, Punjab, Pakistan</span>
+              <span>Saleh Wala, Bhakkar, Punjab, Pakistan</span>
             </div>
           </div>
           <div className="flex-1 w-full">
