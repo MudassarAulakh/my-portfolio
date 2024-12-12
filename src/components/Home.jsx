@@ -42,7 +42,7 @@ function Home() {
             </span>
           </h1>
 
-          <p className="text-white mt-4 mb-8 text-[16px] md:text-lg">
+          <p className="text-white mt-2 mb-8 text-[16px] md:text-lg">
             I’m a frontend developer with 4 years of experience working with
             multiple companies and delivering top-notch web solutions.
           </p>
